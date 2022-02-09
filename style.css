@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin-left: 40%;
+}
+
+h1 {
+    text-align: center;
+    background-color: #C4C4C4;
+    color: #005677;
+    font-weight: bold;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-weight: bold;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #005677;
+    color: white;
+    text-align: center;
+}
+
+footer div {
+    padding-right: 10px;
+}
+
+.parrafoConEspacio {
+    margin-left: 80px;
+}
